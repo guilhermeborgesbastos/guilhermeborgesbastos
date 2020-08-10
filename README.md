@@ -8,6 +8,17 @@
 
 ### Hi there 👋
 ### Be welcome to my profile on Github. :octocat:
-📢 [www.guilhermeborgesbastos.com](https://www.guilhermeborgesbastos.com/en?source=github)
 
-In here, you will have access to some of my latest mobile and web projects. Please, feel free to send me suggestions, critics, and improvements.
+<center>
+  <table>
+    <tr>
+      <td>
+        <p><b>Website: </b><a href="https://www.guilhermeborgesbastos.com/en?source=github" target="_blank">www.guilhermeborgesbastos.com</a> 📢</p>
+        <p>In here, you will have access to some of my latest mobile and web projects. Please, feel free to send me suggestions, critics, and improvements.</p>
+      </td>
+      <td>
+        <img width="600px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborgesbastos&layout=compact" />
+      </td>
+    </tr>  
+  </table>
+</center>
