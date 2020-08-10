@@ -17,7 +17,9 @@
         <p>In here, you will have access to some of my latest mobile and web projects. Please, feel free to send me suggestions, critics, and improvements.</p>
       </td>
       <td>
-        <img width="600px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborgesbastos&layout=compact" />
+        <a href="https://www.guilhermeborgesbastos.com/en?source=github" target="_blank">
+          <img width="600px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborgesbastos&layout=compact" />
+        </a>
       </td>
     </tr>  
   </table>
