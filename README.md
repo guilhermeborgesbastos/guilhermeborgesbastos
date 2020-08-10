@@ -6,18 +6,18 @@
 [![Website Badge](https://img.shields.io/badge/website-Access%20website-green)](https://guilhermeborgesbastos.com/)
 ![GitHub followers](https://img.shields.io/github/followers/guilhermeborgesbastos?label=Follow&style=social)
 
-<h1>Hi there 👋</h1>
-<h2>Be welcome to my profile on Github. :octocat:</h2>
+### Hi there 👋
+### Be welcome to my profile on Github. :octocat:
 
 <center>
   <table>
     <tr>
       <td>
-        <p>📢 <a href="https://www.guilhermeborgesbastos.com/en?source=github" target="_blank">https://guilhermeborgesbastos.com</a></p>
+        <p><b>Website: </b><a href="https://www.guilhermeborgesbastos.com/en?source=github" target="_blank">www.guilhermeborgesbastos.com</a> 📢</p>
         <p>In here, you will have access to some of my latest mobile and web projects. Please, feel free to send me suggestions, critics, and improvements.</p>
       </td>
       <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborgesbastos&layout=compact" />
+        <img width="600px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborgesbastos&layout=compact" />
       </td>
     </tr>  
   </table>
