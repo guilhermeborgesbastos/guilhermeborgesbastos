@@ -13,6 +13,9 @@
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborgesbastos&layout=compact)
 
+### My Last Certification(s)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e8bfc40c-cc61-4307-8c29-84b57f5c931b/public_url)
+
 📕 **Latest Posts**
 <!-- POST-LIST:START -->
 - [The anti-traversing 2D Array formula.](https://www.linkedin.com/pulse/anti-traversing-2d-array-formula-guilherme-borges-bastos/);
