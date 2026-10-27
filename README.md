@@ -1,26 +1,26 @@
-# ⭐ Guilherme Borges Bastos
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeborgesbastos/)](https://www.linkedin.com/in/guilhermeborgesbastos/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeborgesbastos@gmail.com)](mailto:guilhermeborgesbastos@gmail.com)
-[![Download CV Profile Eglish](https://img.shields.io/badge/Download-CV%20Profile-blue)](https://assets.guilhermeborgesbastos.com/live-resume/cv-english-guilherme-bastos-v2.0.pdf)
-[![Website Badge](https://img.shields.io/badge/website-Access%20website-green)](https://guilhermeborgesbastos.com/)
-![GitHub followers](https://img.shields.io/github/followers/guilhermeborgesbastos?label=Follow&style=social)
+# Guilherme Borges Bastos
 
-* Check it out my personal _Live Resume_ at [www.guilhermeborgesbastos.com](https://www.guilhermeborgesbastos.com)
+I'm a Full-Stack & DevOps Engineer based in the Netherlands, with over 10 years of experience building web and mobile software. Since 2020, I've worked at Swisscom on applications for enterprise connectivity, from backend services and Angular interfaces to deployment and monitoring.
 
-### Hi there 👋
-**Be welcome to my profile on Github. :octocat:**
-<p>In here, you will have access to some of my latest mobile and web projects. Please, feel free to send me suggestions, critics, and improvements.</p>
+My day-to-day work includes Java, Spring Boot, TypeScript, Angular, AWS, Docker and Kubernetes. I build CI/CD pipelines, manage infrastructure as code, and use Prometheus, Grafana and ELK to understand what's happening in production. I've also led development teams and mentored developers at SkyDreamer and QAT Global.
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborgesbastos&layout=compact)
+I'm enthusiastic about new technologies such as AI and blockchain, and I like to put them to work where they solve a problem better than the tools we already have.
 
-### My Last Certification(s)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e8bfc40c-cc61-4307-8c29-84b57f5c931b/public_url)
+Outside work, I enjoy cycling, the gym, travel and reading. Recently, I built an open-source flashcard game for the Dutch A2 Inburgering exam and wrote about using AI agents to collect its vocabulary.
 
-📕 **Latest Posts**
-<!-- POST-LIST:START -->
-- [The anti-traversing 2D Array formula.](https://www.linkedin.com/pulse/anti-traversing-2d-array-formula-guilherme-borges-bastos/);
-- [Open-source Tinder slide card for Android (en-US)](https://www.linkedin.com/pulse/tinder-slide-card-android-open-source-en-guilherme-borges-bastos/);
-- [Em 2019, saia do desemprego! Seja você um Web Developer (pt-BR).](https://www.linkedin.com/pulse/em-2019-saia-do-desemprego-seja-voc%C3%AA-um-web-developer-borges-bastos/);
-- [Georeferencia - Select com o MySQL & PHP (pt-BR).](https://www.linkedin.com/pulse/georeferencia-select-com-o-mysql-php-pt-br-guilherme-borges-bastos/);
-- [List all posts](https://www.linkedin.com/in/guilhermeborgesbastos/detail/recent-activity/posts/).
-<!-- POST-LIST:END -->
+[Live Resume & AI Assistant](https://guilhermeborgesbastos.com/en/) · [LinkedIn](https://www.linkedin.com/in/guilhermeborgesbastos/) · [Email](mailto:guilhermeborgesbastos@gmail.com)
+
+## Selected credentials
+
+- [Swisscom Security Champion 2026/27](https://www.credly.com/badges/44e395a6-de2b-417a-bf54-4a0f8f139399/linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e8bfc40c-cc61-4307-8c29-84b57f5c931b?source=linked_in_profile), earned in 2022
+- Anthropic courses (2026): [Claude Code 101](https://verify.skilljar.com/c/hbj956t72s6u), [Introduction to agent skills](https://verify.skilljar.com/c/6p5g52dhz7jv) and [Introduction to subagents](https://verify.skilljar.com/c/t3pbf67odbfw)
+- MongoDB courses (2019): [Performance](https://university.mongodb.com/course_completion/5e3475e6-1d7a-4112-8df1-82632697) and [Diagnostics and Debugging](http://university.mongodb.com/course_completion/1c9a3d63-52aa-47bb-ae47-eff1a3d2)
+
+## Selected articles
+
+- [AI Agents, Dutch Learning, and the Future of Building Small Useful Tools](https://www.linkedin.com/pulse/ai-agents-dutch-learning-future-building-small-useful-borges-bastos-fepse/) (2026)
+- [The anti-traversing 2D Array formula](https://www.linkedin.com/pulse/anti-traversing-2d-array-formula-guilherme-borges-bastos/) (2019)
+- [Map Item Navigation for Android: an open-source component](https://www.linkedin.com/pulse/map-item-navigation-android-opensource-en-guilherme-borges-bastos/) (2016)
+
+More experience, credentials and articles are on my [Live Resume](https://guilhermeborgesbastos.com/en/).
